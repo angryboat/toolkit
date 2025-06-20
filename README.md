@@ -75,4 +75,4 @@ swift test
 
 ## License
 
-[Add your license information here]
+This project is released into the public domain under the [Unlicense](UNLICENSE).
