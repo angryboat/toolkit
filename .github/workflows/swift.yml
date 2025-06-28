@@ -7,6 +7,7 @@ on:
 jobs:
   build:
     runs-on: macos-15
+    # Disabled for now as it requires beta Xcode
     if: false
     steps:
       - uses: actions/checkout@v4
